@@ -51,4 +51,4 @@
 - 原作：[https://github.com/Keineliebeundkeinleid/RePKG-GUI](https://github.com/Keineliebeundkeinleid/RePKG-GUI)
 - RePKG：[https://github.com/notscuffed/repkg](https://github.com/notscuffed/repkg)
 
-**二次开发：NovaGlaxy**
+**二次开发：[NovaGlaxy](https://github.com/novaglaxy88)**
